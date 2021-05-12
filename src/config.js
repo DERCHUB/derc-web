@@ -62,6 +62,10 @@ const Config = {
                                 open: "https://discord.gg/E5xZYwA9tE",
                             },
                             {
+                                action: "Twitch",
+                                open: "https://www.twitch.tv/dercstream"
+                            },
+                            {
                                 action: "Enroll",
                                 open: "https://robertsspaceindustries.com/orgs/DERC",
                             },
@@ -114,8 +118,16 @@ const Config = {
                                 title: "Links",
                             },
                             {
+                                action: "Discord",
+                                open: "https://discord.gg/E5xZYwA9tE",
+                            },
+                            {
                                 action: "YouTube",
                                 open: "https://www.youtube.com/channel/UCfX413FlpCeIypiRyXJ9aDg",
+                            },
+                            {
+                                action: "Twitch",
+                                open: "https://www.twitch.tv/dercstream"
                             },
                             {
                                 action: "Resources",
